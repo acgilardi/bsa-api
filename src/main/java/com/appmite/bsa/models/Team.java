@@ -1,10 +1,8 @@
 package com.appmite.bsa.models;
 
 import javax.persistence.*;
-import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Set;
 
-@XmlRootElement
 @Entity
 public class Team {
 
